@@ -1,6 +1,6 @@
 ## Workshop Template
 
-Welcome to the design template for the Workshop-o-matic, a system designed to help Microsoft Student Ambassadors and their partners to create and deliver excellent technical workshops.
+Welcome to the design template for the [Workshop-o-matic](presentation.pptx), a system designed to help Microsoft Student Ambassadors and their partners to create and deliver excellent technical workshops.
 
 ## Get started building a workshop
 
