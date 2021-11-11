@@ -9,17 +9,17 @@ Start your course design process by reviewing this cheat sheet:
 
 Then, design your workshop following the Understanding By Design Framework:
 
-- [Workshop Designer](../workshop/workshop-designer.md)
+- [Workshop Designer](./workshop/workshop-designer.md)
 
 Finally, build the workshop itself:
 
-- [Workshop Template](../workshop/README.md)
+- [Workshop Template](./workshop/README.md)
 
 Last, send a PR of your workshop to our workshop library for review, reuse and inclusion in the library, using [this repo's PR template](https://github.com/microsoft/workshop-library).
 
 ## Slides about the Workshop-o-matic project
 
-- [Explanatory slide deck](https://microsoft-my.sharepoint.com/:p:/p/jelooper/EZdjo0MracJFrM9PQBSEhmIB32nsPSslmLFdopRPUYH-rg?e=ge1wL1)
+- [Explanatory slide deck](presentation.pptx)
 
 ![workshop-o-matic logo](logo.png)
 
