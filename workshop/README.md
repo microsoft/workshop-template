@@ -6,7 +6,7 @@ In this workshop, we will discuss *insert your topic*.
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | *describe your learning goals*                                        |
 | **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | 1 hour                                                                |
+| **Duration**                  | *specify the duration*                                                                |
 | **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
 | **Slides** | [Powerpoint](slides.pptx)                          |
 
