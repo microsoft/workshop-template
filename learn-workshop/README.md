@@ -10,7 +10,12 @@ In this workshop, we will discuss *insert your topic*.
 | **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
 | **Duration**                  | *specify the duration*                                                                |
 | **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx)                          |
+| **Slides** | [Powerpoint](slides.pptx) 
+                         |
+
+## Video
+
+Train the Trainer video embed
 
 ## Pre-Learning
 
