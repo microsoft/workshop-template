@@ -1,6 +1,6 @@
 ## Workshop Template
 
-Welcome to the design template for the [Workshop-o-matic](presentation.pptx), a system designed to help Microsoft Student Ambassadors and their partners to create and deliver excellent technical workshops.
+Welcome to the Next Generation Team's design template for [building workshops](presentation.pptx), a system designed to help Microsoft Student Ambassadors and their partners to create and deliver excellent technical workshops.
 
 ## Get started building a workshop
 
@@ -17,9 +17,9 @@ Finally, build the workshop itself:
 
 Last, send a PR of your workshop to our workshop library for review, reuse and inclusion in the library, using [this repo's PR template](https://github.com/microsoft/workshop-library).
 
-## Slides about the Workshop-o-matic project
+## Slides about this project
 
 - [Explanatory slide deck](presentation.pptx)
 
-![workshop-o-matic logo](logo.png)
+
 
