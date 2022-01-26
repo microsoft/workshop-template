@@ -11,7 +11,7 @@ In this workshop, we will discuss *insert your topic*.
 | **Duration**                  | *specify the duration*                                                                |
 | **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
 | **Slides** | [Powerpoint](slides.pptx) 
-                         |
+                         
 
 ## Video
 
