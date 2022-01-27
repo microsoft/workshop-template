@@ -26,6 +26,19 @@ In this template you will find three types of workshops that you can build:
 - [ ] Trainers: Contact Chris or Jen to present your workshop to Ambassadors to generate a Train the Trainer video for inclusion in the library.
 - [ ] Ambassadors: present workshops to your communities sourced from [the workshop library](https://github.com/microsoft/workshop-library). You can edit and use a [copy of this poster](https://www.canva.com/design/DAEuDXXR9us/share/preview?token=Je0_213uqxmYaXnNYz1v-Q&role=EDITOR&utm_content=DAEuDXXR9us&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to publicize it.
 
+## Get Started building a workshop from a existing Microsoft Learn Module 
+
+All content workshop subject matter will be focused on reusing content from our Microsoft Learn catalog. The spirit is finding content that resonates well with our audience.
+
+Step 1. Find the closest[Microsoft Learn module/s](http://docs.microsoft.com/learn) to your chosen problem scenario in our [Microsoft Learn catalog](http://docs.microsoft.com/learn) then adapt it for the workshop as needed. 
+-	Primarily, select modules that are ready to go, without modifications.
+-	Secondary: If there are changes required to our [Microsoft Learn modules](http://docs.microsoft.com/learn) to make them workshop ready, we make them, consult with your lead before starting any such work.
+Step 2. Generate/Create workshop build-out (slides and README), record Train The Trainer (TTT) resources/materials and store in centralized storage.
+Step3. Help communicate the existence of the workshop via the Ambassador program.
+Step 4. Then as part of the workshop, we drive traffic to Learn in two ways:
+-	Exercises are encouraged to be held on Microsoft Learn itself in cases where attendees can’t connect to Azure/ don’t want to spend credits, where there’s a Sandbox available.
+-	Call To Actions (CTA) leading to the sourced modules and other relevant modules for further learning.
+
 ## Slides about this project
 
 - [Explanatory slide deck](presentation.pptx)
