@@ -6,7 +6,7 @@ Welcome to the Next Generation Team's design template for [building workshops](p
 
 In this template you will find two types of workshops that you can build:
 
-* **[Workshops](./learn-workshop/README.md)** - a workshop that is designed to be completed within 30-90 minutes with content derived from [Microsoft Learn](https://learn.microsoft.com).
+* **[Workshops](./workshop/README.md)** - a workshop that is designed to be completed within 30-90 minutes with content derived from [Microsoft Learn](https://learn.microsoft.com).
 * **[Short Workshops](./short-workshop/README.md)** - a workshop that is designed to be completed within 15-30 minutes with content derived from [Microsoft Learn](https://learn.microsoft.com). 
 
 ## Building a Workshop
