@@ -21,7 +21,7 @@ Train the Trainer video embed
 
 ## Pre-Learning
 
-*add a link to MS Learn for students to pre-learn the topic, if possible*
+*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
 
 ## Prerequisites
 
@@ -35,10 +35,11 @@ Train the Trainer video embed
 
 ![image of completed project](images/placeholder.png)
 
-## Milestone 1 (example)
+## Milestone 1
 
-In this segment, you'll query an API at the Metropolitan Museum of Art
-[link to Learn module area](link)
+text
+
+link
 
 ## Milestone 2
 

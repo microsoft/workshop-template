@@ -1,18 +1,32 @@
 # Workshop Title
 
+## Module Source Link
+
+Link the source Learn module here
+
+## Goals
+
 In this workshop, we will discuss *insert your topic*.
 
-| **Project Goal**              | *describe the goal of the project*                                    |
+| **Goal**              | *describe the goal of the workshop*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | *describe your learning goals*                                        |
 | **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
 | **Duration**                  | *specify the duration*                                                                |
-| **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx)                          |
+| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
+| **Slides** | [Powerpoint](slides.pptx) 
+                         
+## Introduce the Problem-based Scenario Example 
+
+Describe a problem or scenario where Microsoft services and technologies can be showcased and used to create a solution.  
+
+## Video
+
+Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](./video-guidance.md).
 
 ## Pre-Learning
 
-*add a link to MS Learn for students to pre-learn the topic, if possible*
+*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
 
 ## Prerequisites
 
@@ -20,61 +34,53 @@ In this workshop, we will discuss *insert your topic*.
 
 ## What students will learn
 
-*describe the milestones students will accomplish in the workshop*
+*In this area, describe the scenario and intended solution*
+
+Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
 
 *add a screenshot of the completed project*
 
 ![image of completed project](images/placeholder.png)
 
-## Milestone 1
+## Milestone 1 (example)
 
-```javascript
-//code snippets to aid in the building process
-```
+In this segment, you'll query an API at the Metropolitan Museum of Art
 
-> *tips, tricks, callouts*
+[link to Learn module area](link)
 
 ## Milestone 2
 
-```javascript
-//code snippets to aid in the building process
-```
+text
 
-> *tips, tricks, callouts*
+link
 
 ## Milestone 3
 
-```javascript
-//code snippets to aid in the building process
-```
+text
 
-> *tips, tricks, callouts*
+link
 
 ## Milestone 4
 
-```javascript
-//code snippets to aid in the building process
-```
+text
 
-> *tips, tricks, callouts*
+link
 
 ## Milestone 5
 
-```javascript
-//code snippets to aid in the building process
-```
+text
 
-> *tips, tricks, callouts*
+link
 
 ## Quiz or Code Challenge
 
-*Add an activity to demonstrate that students have comprehension of the material*
+Link to quiz or challenge on Learn
 
 ## Next steps
 
 *links to Microsoft Learn to further learning progress, and/or a path to certifications*
 
-## Optional Transfer knowledge activity
+## Optional Transfer Knowledge activity
 
 *suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
 

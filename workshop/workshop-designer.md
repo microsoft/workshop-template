@@ -5,6 +5,10 @@ The UBD technique of curriculum design was created by Jay McTighe and Grant Wigg
 
 ## Workshop Title
 
+## Workshop Source 
+
+List the workshop source from Microsoft Learn (usually a module)
+
 ## Stage 1: Desired Results 
 
 > List your established goals of the workshop experience here. These are the takeaways that you want students to have after completing the workshop.
@@ -17,7 +21,7 @@ The UBD technique of curriculum design was created by Jay McTighe and Grant Wigg
 
 > List any evaluative criteria and Assessment Evidence. Students will demonstrate their understanding of the concepts by doing the following:
  
-1. Performance Tasks (these are tasks that a student can complete to demonstrate comprehension, such as a quiz or code challenge):
+1. Performance Tasks (these are tasks that a student can complete to demonstrate comprehension, such as a quiz or code challenge)
 
 ## Stage 3: Learning Plan
 
