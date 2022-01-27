@@ -13,9 +13,7 @@ In this workshop, we will discuss *insert your topic*.
 | **What will you learn**       | *describe your learning goals*                                        |
 | **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
 | **Duration**                  | *specify the duration*                                                                |
-| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx) 
-                         
+| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |                        
 
 ## Video
 
@@ -33,7 +31,7 @@ Train the Trainer video embed
 
 *describe the milestones students will accomplish in the workshop* - These are sourced from the Learn headings
 
-*add a screenshot of the completed project*
+*optional: add a screenshot of the completed project*
 
 ![image of completed project](images/placeholder.png)
 
@@ -49,18 +47,6 @@ text
 link
 
 ## Milestone 3
-
-text
-
-link
-
-## Milestone 4
-
-text
-
-link
-
-## Milestone 5
 
 text
 

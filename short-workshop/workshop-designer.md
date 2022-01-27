@@ -27,5 +27,5 @@ List the workshop source from Microsoft Learn (usually a module)
 
 > Now you are ready to build out your lesson plan. Summarize the key learning events here by creating an outline of the milestones that you can lay out to structure the course.
 
-1. List the key learning events in the workshop - for a one-hour workshop, we recommend 5 milestones
+1. List the key learning events in the workshop - for a short workshop, we recommend 3 milestones
 
