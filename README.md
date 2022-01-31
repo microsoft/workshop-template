@@ -26,7 +26,4 @@ In this template you will find two types of workshops that you can build:
 
 ## Slides about this project
 
-- [Explanatory slide deck](presentation.pptx)
-
-
-
+- [Explanatory slide deck](https://github.com/microsoft/workshop-template/blob/main/presentation.pptx?raw=true)
