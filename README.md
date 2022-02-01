@@ -11,17 +11,19 @@ In this template you will find two types of workshops that you can build:
 
 ## Building a Workshop
 
-- [ ] Sync with Chris on the topic and Learn module on which to focus for your workshop.
-- [ ] Decide what kind of workshop you want to design and sync with project leads (Jen and Chris for workshops, Max for short workshops) to work out details
+- [ ] Discuss with Chris Noring on the topic and Learn module on which to focus for your workshop.
+- [ ] Decide what kind of workshop you want to design and sync with project leads (Jen Looper and Chris Noring for workshops, Max Rouillier for short workshops) to work out details.
+- [ ] Discuss your plan with your lead and add it to our DevOps board.
 - [ ] Design your workshop following these steps.
     - [ ] Fork this template repo to your local machine.
-    - [ ] Navigate to the folder of your chosen type of workshop and fill out the workshop-designer document to design the experience.
+    - [ ] In the folder of your chosen type of workshop, fill out the [workshop-designer](./workshop/workshop-designer.md) document to design the experience.
     - [ ] Build slides for the workshop using the appropriate template, depending on which type of workshop you are building. 
-        - For Workshops, use our Particle tool to generate slides. Contact Chris or Jen for help.
+        - For Workshops, use our Particle tool to generate slides. Contact Chris Noring or Jen Looper for help.
         - For Short-form workshops, slides are optional.
-    - [ ] Write instructions for your workshop based on the README.md file in your folder's template. Your README.md work is minimal, and mostly links back to the source Learn module. Make sure to include a Call to Action to learn more on Microsoft Learn.
-    - [ ] Give your folder a descriptive name and PR the entire folder to the Next Generation Team's workshop library using [the library's PR template](https://github.com/microsoft/workshop-library)
-- [ ] Trainers: Contact Chris or Jen to present your workshop to Ambassadors to generate a Train the Trainer video for inclusion in the library.
+    - [ ] Write instructions for your workshop based on the README.md file in your folder's template. Your README.md work is minimal, and mostly links back to the source Learn module. Make sure to include a Call to Action with an instrumented link leading back to Docs and/or Learn to learn more.
+    - [ ] If your workshop needs to diverge significantly from the Learn module, write out the steps as milestones, adding images and screenshots as needed.
+    - [ ] Give your folder a descriptive name and PR the folder to the Next Generation Team's workshop library using [the library's PR template](https://github.com/microsoft/workshop-library)
+- [ ] Trainers: Contact Chris Noring or Jen Looper to present your workshop to Microsoft Student Ambassadors to generate a Train the Trainer video for inclusion in the library.
 - [ ] Ambassadors: present workshops to your communities sourced from [the workshop library](https://github.com/microsoft/workshop-library). You can edit and use a [copy of this poster](https://www.canva.com/design/DAEuDXXR9us/share/preview?token=Je0_213uqxmYaXnNYz1v-Q&role=EDITOR&utm_content=DAEuDXXR9us&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to publicize it.
 
 ## Slides about this project
