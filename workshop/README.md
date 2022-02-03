@@ -52,31 +52,25 @@ Now that you have the extension ready to go, you'll [add a dev container and ope
 
 ## Customize project and editor settings
 
-After setting up the dev container for the project, you'll learn how to [customize and automate all the project setup](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/5-customize-settings?WT.mc_id=academic-55190-ornella) using the devcontainer.json file. 
+After setting up the dev container for the project, you'll learn how to [customize and automate all the project setup](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/5-customize-settings?WT.mc_id=academic-55190-ornella) using the [devcontainer.json file](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/6-exercise-customize-settings?WT.mc_id=academic-55190-ornella). 
 
-## Milestone 4
+## Add software to an existing container
 
-text
+So far, you've learned how to add a preconfigured dev container and customize it using the devcontainer.json file. Next, you'll learn how to [add software](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/7-add-software?WT.mc_id=academic-55190-ornella) beyond what's available in those preconfigured dev containers to further customize your experience. Apply what you learned by [using a Dockerfile to add Node.js to your container](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/8-exercise-add-software?WT.mc_id=academic-55190-ornella). 
 
-link
+## Quiz
 
-## Milestone 5
-
-text
-
-link
-
-## Quiz or Code Challenge
-
-Link to quiz or challenge on Learn
+[Knowledge Check](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/9-knowledge-check?WT.mc_id=academic-55190-ornella)
 
 ## Next steps
 
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
+- [Remote - Containers tutorial](https://code.visualstudio.com/docs/remote/containers-tutorial?WT.mc_id=academic-55190-ornella)
+- [Learn to create a development container](https://code.visualstudio.com/docs/remote/create-dev-container?WT.mc_id=academic-55190-ornella)
+- [Main Remote - Containers documentation](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=academic-55190-ornella)
+- [How students can use dev containers](https://www.youtube.com/watch?v=Uvf2FVS1F8k)
 
-## Optional Transfer Knowledge activity
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
+## Transfer Knowledge activity
+To test your knowledge, try creating your own development container filled with your favorite coding tools. Share it with a friend!
 
 ## Feedback
 
