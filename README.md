@@ -11,7 +11,7 @@ In this template you will find two types of workshops that you can build:
 
 ## Style Guide
 
-To present a unified voice, please use [this style guide](https://github.com/jlooper/curriculum-template/wiki) to shape your writing.
+To present a unified voice, please use [this style guide](https://github.com/jlooper/curriculum-template/wiki/Voice) to shape your writing.
 
 ## Building a Workshop
 
