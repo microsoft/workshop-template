@@ -1,4 +1,4 @@
-# Workshop Title
+# Full Workshop Title
 
 ## Module Source Link
 
