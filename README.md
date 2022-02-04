@@ -9,6 +9,10 @@ In this template you will find two types of workshops that you can build:
 * **[Workshops](./workshop/README.md)** - a workshop that is designed to be completed within 30-90 minutes with content derived from [Microsoft Learn](https://learn.microsoft.com).
 * **[Short Workshops](./short-workshop/README.md)** - a workshop that is designed to be completed within 15-30 minutes with content derived from [Microsoft Learn](https://learn.microsoft.com). 
 
+## Style Guide
+
+To present a unified voice, please use [this style guide](https://github.com/jlooper/curriculum-template/wiki) to shape your writing.
+
 ## Building a Workshop
 
 - [ ] Discuss with Chris Noring on the topic and Learn module on which to focus for your workshop.
