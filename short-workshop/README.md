@@ -62,7 +62,7 @@ Link to quiz or challenge on Learn
 
 *links to Microsoft Learn to further learning progress, and/or a path to certifications*
 
-## Optional Transfer Knowledge activity
+## Practice
 
 *suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
 
