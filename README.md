@@ -15,8 +15,7 @@ To present a unified voice, please use [this style guide](https://github.com/jlo
 
 ## Building a Workshop
 
-- [ ] Discuss with Chris Noring on the topic and Learn module on which to focus for your workshop.
-- [ ] Decide what kind of workshop you want to design and sync with project leads (Jen Looper and Chris Noring for workshops, Max Rouillier for short workshops) to work out details.
+- [ ] Decide what kind of workshop you want to design and sync with project lead Jen Looper to work out details.
 - [ ] Discuss your plan with your lead and add it to our DevOps board.
 - [ ] Design your workshop following these steps.
     - [ ] Fork this template repo to your local machine.
