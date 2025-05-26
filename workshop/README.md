@@ -19,7 +19,7 @@ In this workshop, we will discuss *insert your topic*.
                          
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
+Add your training video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
 
 ## Pre-Learning
 
