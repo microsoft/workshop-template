@@ -6,7 +6,7 @@ This project uses GitHub Issues to track bugs and feature requests. Please searc
 issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
 feature request as a new Issue.
 
-For help and questions about using this project, please contact Jen Looper via Teams or tag me in the issues.
+For help and questions about using this project, please contact the workshop template maintainers via GitHub Issues or tag a maintainer in the issues.
 
 ## Microsoft Support Policy  
 
