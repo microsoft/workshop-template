@@ -2,6 +2,8 @@
 
 Welcome to the Next Generation Team's design template for [building workshops](presentation.pptx), a system designed to help Microsoft Student Ambassadors and their partners to create and deliver excellent technical workshops.
 
+> This repository is actively maintained.
+
 ## Types of Workshops
 
 In this template you will find two types of workshops that you can build:
