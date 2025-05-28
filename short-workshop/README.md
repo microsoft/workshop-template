@@ -18,7 +18,7 @@ In this workshop, we will discuss *insert your topic*.
 
 ## Video
 
-Add your training video here.
+Train the Trainer video embed
 
 ## Pre-Learning
 
